@@ -1,3 +1,5 @@
-#EXTM3U
+#EXTM3U 
 #EXT-X-VERSION:3
+#EXTVLCOPT:http-user-agent="burhan.tv/9.6 (Linux;Android 7.1.2) ExoPlayerLib/2.8.4"
+#EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=625000,NAME=360p,RESOLUTION=640x360
 https://etslive-2-vidio-com.akamaized.net/exp=1599508808~acl=/hls-p/ingest_205_*/*~hmac=1617a6d8b4cadbfd761eed9af08c5b8d18a9caf4049b659dfc93733de7c399ce/hls-p/ingest_205_480p/index.m3u8
